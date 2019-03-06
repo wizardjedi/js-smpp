@@ -1,0 +1,23 @@
+{
+  "name": "js-smpp",
+  "version": "0.1.0",
+  "description": "SMPP handling library in JavsScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardjedi/js-smpp.git"
+  },
+  "keywords": [
+    "javascript",
+    "smpp"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wizardjedi/js-smpp/issues"
+  },
+  "homepage": "https://github.com/wizardjedi/js-smpp#readme"
+}
